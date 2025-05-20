@@ -1,0 +1,2 @@
+Flask>=2.0.0
+extract_msg>=0.28.0
